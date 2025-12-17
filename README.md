@@ -120,7 +120,7 @@ If the LLM is not available, the app falls back to a rule‑based report layout.
 
 ## Notes & limitations
 
-- This is a course/portfolio project; outputs must be reviewed by qualified professionals.
+- This is a portfolio project; outputs must be reviewed by qualified professionals.
 - Embedding saliency ≠ diagnosis explanation; it shows sensitivity of the **embedding**, not a certified clinical rationale.
 - RAG evidence is similarity‑based and may retrieve imperfect matches.
 
