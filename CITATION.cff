@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it."
+title: "MedVision PACS: Neuro-Symbolic Radiology Report Drafting with BiomedCLIP + RAG"
+authors:
+  - family-names: "Sadeghi"
+    given-names: "Samira"
+  - family-names: "Noroozi"
+    given-names: "Daniel"
+version: "1.0.0"
+date-released: "2025-12-17"
+license: "MIT"
